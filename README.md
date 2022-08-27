@@ -1,4 +1,4 @@
-# Brave search
+# Yandex search
 
 ## Build
 
