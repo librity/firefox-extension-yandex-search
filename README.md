@@ -11,5 +11,5 @@
 
 ## Remarks
 
-I find it ridiculous that Firefox doesn't let us add an arbitrary search engine through a url template.
+I find it ridiculous that Firefox doesn't let us add an arbitrary search engine with an url template.
 Get with the times Mozilla.
