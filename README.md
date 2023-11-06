@@ -2,8 +2,11 @@
 
 ## Build
 
+Can be built in any OS.
+
+- Install [Node.js](https://nodejs.org/) version 16.17.0
+- Install `npm` version 8.15.0
 - Clone the repo
-- Install [Node.js](https://nodejs.org/)
 - Install dependencies:
   - `npm install`
 - Build:
