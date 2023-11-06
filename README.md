@@ -5,6 +5,9 @@
 - [ ] Add configuration modal:
   - [ ] Switch between yandex.com and yandex.ru
   - [ ] Select search language
+- [ ] Find a way around the captcha
+  - [ ] Maybe by adding the query params: `&lr=10437&search_source=yacom_desktop_common`
+    - https://stackoverflow.com/questions/15852238/how-to-construct-complex-google-web-search-query
 
 ## Build
 
