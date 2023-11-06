@@ -14,7 +14,7 @@
       "name": "Yandex search",
       "keyword": "@yandex",
       "favicon_url": "https://cdn.search.yandex.com/serp/v1/static/brand/9b3cd14668935362449eebb1854f575091a1169bf51aba6a8c17b39f64a9d07e-favicon-16x16.png",
-      "search_url": "https://yandex.com/search/?text={searchTerms}&lang=en"
+      "search_url": "https://yandex.com/search/?text={searchTerms}"
     }
   },
   "browser_specific_settings": {
