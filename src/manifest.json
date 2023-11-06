@@ -3,7 +3,7 @@
   "name": "Yandex search",
   "short_name": "yandex_search",
   "description": "Adds Yandex search as a search engine.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icons": {
     "16": "icons/yandex.svg",
     "64": "icons/yandex.svg",
