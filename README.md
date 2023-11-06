@@ -1,5 +1,11 @@
 # Yandex search
 
+## TODO
+
+- [ ] Add configuration modal:
+  - [ ] Switch between yandex.com and yandex.ru
+  - [ ] Select search language
+
 ## Build
 
 Can be built in any OS.
